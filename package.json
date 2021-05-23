@@ -1,6 +1,6 @@
 {
   "name": "noescaperc",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "noescaperc",
   "main": "index.js",
   "scripts": {
@@ -14,14 +14,13 @@
     "binary",
     "typedArray"
   ],
-  "author": "Soldy",
-  "license": "GPLv3",
+  "author": "Soldy <npmjs@gidigi.com> (http://gidigi.com)",
+  "license": "GPL-3.0-or-later",
   "bugs": {
     "url": "https://github.com/Soldy/noescapercrc/issues"
   },
   "homepage": "https://github.com/Soldy/noescaperc#readme",
   "devDependencies": {
-    "interactiveConsole": "0.0.7-alpha0",
-    "nanoTest": "^0.0.4-alpha"
+    "nanoTest": "^0.9.9-beta21"
   }
 }
